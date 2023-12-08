@@ -1,0 +1,6 @@
+git clone "remote path"
+git push orgin branch
+git pull : changes in remote repository to local respository
+git init : for initializing empty git respository
+git add -A 
+git commit -m "message"
