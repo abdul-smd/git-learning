@@ -5,11 +5,3 @@ git init : for initializing empty git respository
 git add -A 
 git commit -m "message"
 git status : to list all untracked files
-git list : shows all history 
-git branch : list all branches
-git remote add name remote path 
-git remote -v
-git stash 
-git stash pop
-git rebase
-git merge
